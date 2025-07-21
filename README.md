@@ -1,7 +1,7 @@
 # Li-ion battery SOH prediction using Gradient Boosting method
 ### Purpose: battery State of Health (SOH) prediction.
 Project based on data of Li-ion batteries of CS and CX types from [CALCE Prognostics Centre](https://calce.umd.edu/battery-data).
-Data structure: original data contains time, voltage and current measurements during battery charging and discharging.
+Original data contains time, voltage and current measurements during battery charging and discharging.
 
 Project includes:
   - Data investigation (EDA);
